@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VICEM\\SuHPCC\\DemoMVC\\DemoMVC.csproj": {}
+    "D:\\VICEM\\Vicem\\DemoMVC\\DemoMVC.csproj": {}
   },
   "projects": {
-    "D:\\VICEM\\SuHPCC\\DemoMVC\\DemoMVC.csproj": {
+    "D:\\VICEM\\Vicem\\DemoMVC\\DemoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VICEM\\SuHPCC\\DemoMVC\\DemoMVC.csproj",
+        "projectUniqueName": "D:\\VICEM\\Vicem\\DemoMVC\\DemoMVC.csproj",
         "projectName": "DemoMVC",
-        "projectPath": "D:\\VICEM\\SuHPCC\\DemoMVC\\DemoMVC.csproj",
+        "projectPath": "D:\\VICEM\\Vicem\\DemoMVC\\DemoMVC.csproj",
         "packagesPath": "C:\\Users\\Mobiphone\\.nuget\\packages\\",
-        "outputPath": "D:\\VICEM\\SuHPCC\\DemoMVC\\obj\\",
+        "outputPath": "D:\\VICEM\\Vicem\\DemoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mobiphone\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,6 +54,30 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
