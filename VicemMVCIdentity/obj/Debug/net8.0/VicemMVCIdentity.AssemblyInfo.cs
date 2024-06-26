@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VicemMVCIdentity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43091890c30fd6111cc7f6c88d938e314ca522bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93eb0740505eacbc1726f16386236c7f59cf30cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("VicemMVCIdentity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VicemMVCIdentity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

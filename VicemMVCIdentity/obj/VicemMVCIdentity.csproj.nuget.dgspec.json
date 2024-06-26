@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VICEM\\Download\\VicemMVCIdentity\\VicemMVCIdentity.csproj": {}
+    "D:\\VICEM\\Vicem\\VicemMVCIdentity\\VicemMVCIdentity.csproj": {}
   },
   "projects": {
-    "D:\\VICEM\\Download\\VicemMVCIdentity\\VicemMVCIdentity.csproj": {
+    "D:\\VICEM\\Vicem\\VicemMVCIdentity\\VicemMVCIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VICEM\\Download\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
+        "projectUniqueName": "D:\\VICEM\\Vicem\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
         "projectName": "VicemMVCIdentity",
-        "projectPath": "D:\\VICEM\\Download\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
+        "projectPath": "D:\\VICEM\\Vicem\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
         "packagesPath": "C:\\Users\\Mobiphone\\.nuget\\packages\\",
-        "outputPath": "D:\\VICEM\\Download\\VicemMVCIdentity\\obj\\",
+        "outputPath": "D:\\VICEM\\Vicem\\VicemMVCIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mobiphone\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.5.1, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[4.6.0, )"

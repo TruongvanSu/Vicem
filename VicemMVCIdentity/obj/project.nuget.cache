@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kpIO2hJtkQo=",
+  "dgSpecHash": "B7GJJxgziTY=",
   "success": true,
-  "projectFilePath": "D:\\VICEM\\Download\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
+  "projectFilePath": "D:\\VICEM\\Vicem\\VicemMVCIdentity\\VicemMVCIdentity.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mobiphone\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512",
     "C:\\Users\\Mobiphone\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Mobiphone\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Mobiphone\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

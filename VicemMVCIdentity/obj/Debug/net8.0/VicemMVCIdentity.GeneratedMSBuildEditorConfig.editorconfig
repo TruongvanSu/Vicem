@@ -17,71 +17,111 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VicemMVCIdentity
 build_property.RootNamespace = VicemMVCIdentity
-build_property.ProjectDir = D:\VICEM\Download\VicemMVCIdentity\
+build_property.ProjectDir = D:\VICEM\Vicem\VicemMVCIdentity\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\VICEM\Download\VicemMVCIdentity
+build_property.MSBuildProjectDirectory = D:\VICEM\Vicem\VicemMVCIdentity
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Views/Home/Index.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Views/Home/Privacy.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Views/Shared/Error.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/MemberUnit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyVW5pdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/MemberUnit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyVW5pdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/MemberUnit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyVW5pdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/MemberUnit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyVW5pdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/MemberUnit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyVW5pdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Views/Shared/_LoginPartial.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Views/_ViewImports.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Views/_ViewStart.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VICEM/Download/VicemMVCIdentity/Views/Shared/_Layout.cshtml]
+[D:/VICEM/Vicem/VicemMVCIdentity/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bvinchtrn9
